@@ -4,7 +4,7 @@
 
 AEGIS AI is a multi-agent SaaS platform that stress-tests contracts, invoices, and communications against historical data using adversarial AI reviewers. It generates an evidence-backed "Clearance" status and 1-click remediation actions.
 
-![AEGIS AI Dashboard](link-to-your-screenshot-or-gif-here)
+![AEGIS AI Dashboard](pictures/1-dashboard-1.png)
 
 ## Why AEGIS is NOT an AI Wrapper
 Unlike basic RAG chatbots, AEGIS uses a **deterministic multi-agent critic loop** to guarantee compliance and execute remediations, not just probabilistic text generation.
@@ -175,5 +175,19 @@ I built a synthetic test suite of 20 planted anomalies (under-billing, scope cre
 - **Phase 1 (Current MVP):** Text/JSON ingestion, Multi-agent analysis, Email/Task generation.
 - **Phase 2:** PDF/CSV parsing, Stripe & QuickBooks API integrations.
 - **Phase 3:** Live Gmail/Slack ingestion and automated human-in-the-loop approval workflows.
+
+---
+
+## Demo Video
+
+[![Watch it here](pictures/video-thumbnail.png)](https://youtu.be/x2_reUGsFzo?si=m6iSPKpjZvE8q-Qa)
+
+---
+
+##  License
+
+**MIT License.**  
+
+*Built for the 2026 AI Builders Hackathon.*
 
 ---

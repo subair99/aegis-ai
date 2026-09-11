@@ -188,6 +188,6 @@ I built a synthetic test suite of 20 planted anomalies (under-billing, scope cre
 
 **MIT License.**  
 
-*Built for the 2026 AI Builders Hackathon.*
+*Built for the AI Builders Hackathon 2026.*
 
 ---

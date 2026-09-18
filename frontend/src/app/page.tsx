@@ -3,7 +3,7 @@
 import { useState } from "react";
 
 const SAMPLE_PAYLOAD = `DOCUMENT 1: MASTER SERVICE AGREEMENT (Contract)
-Client: Acme Corp. Service: Premium Support Package. Fee: $12,000 per month, billed on the 1st. Auto-renews annually unless canceled with 30 days notice.
+Client: Acme Corp. Service: Premium Support Package. Fee: $12,000 per month, billed on the 1st. Auto-renews annually unless cancelled with 30 days notice.
 
 DOCUMENT 2: INVOICE #1042
 Date: Sept 1, 2026. Client: Acme Corp. Description: Standard Support Package. Amount Due: $9,000. Paid: $9,000.

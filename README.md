@@ -180,7 +180,7 @@ I built a synthetic test suite of 20 planted anomalies (under-billing, scope cre
 
 ## Demo Video
 
-[![Watch it here](pictures/video-thumbnail.png)](https://youtu.be/x2_reUGsFzo?si=m6iSPKpjZvE8q-Qa)
+[![Watch it here](pictures/video-thumbnail.png)](https://youtu.be/OKDcAKjvw_M)
 
 ---
 
